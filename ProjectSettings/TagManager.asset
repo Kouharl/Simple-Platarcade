@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Plataforma
+  - Plataforma_Top
+  - Plataforma_Bot
+  - Plataforma_X
   layers:
   - Default
   - TransparentFX

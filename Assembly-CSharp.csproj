@@ -61,7 +61,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CondicionTransicion.cs" />
     <Compile Include="Assets\EventoTitulo.cs" />
+    <Compile Include="Assets\Script\MovimientoJugador.cs" />
     <Compile Include="Assets\Sistema.cs" />
     <Compile Include="Assets\TituloScript.cs" />
     <Reference Include="UnityEditor.StandardEvents">
